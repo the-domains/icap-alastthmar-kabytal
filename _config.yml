@@ -1,0 +1,28 @@
+name: ICAP الاستثمار كابيتال
+favicon: null
+layout_spectrum: 0.5387430917471647
+typography_spectrum: 0.46453891694545746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6635802665259689
+  lightness: 0.6212244660127908
+  saturation: 0.6616978386882693
+  rhythmicContrast: 0.3695829091593623
+purpose: []
